@@ -1,2 +1,2 @@
 # test-repo
-it's just a test repository
+nothing special here, it's just a test repository
